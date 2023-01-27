@@ -1,0 +1,8 @@
+body {
+    background-color: #6495ed;
+}
+
+.jumbotron {
+    background-image: url("../images/IMG_3294.jpg");
+    background-size: 50%;
+}
